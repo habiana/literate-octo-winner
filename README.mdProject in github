@@ -1,5 +1,5 @@
 # literate-octo-winner
 # this is my first repository to learn how to build 
-$ curl https://api.github.com/zen
+$ curl https://api.github.com/habiana
 > Keep it logically awesome.
 $ gem --version

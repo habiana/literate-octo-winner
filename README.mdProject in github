@@ -3,3 +3,8 @@
 $ curl https://api.github.com/habiana
 > Keep it logically awesome.
 $ curl lapolinar@buymeacoffee.com
+
+<VictoryBar
+              labelComponent={<VictoryLabel dy={20} style={{ fill: colors.nano.white, fontSize: 12 }} />}
+              cornerRadius={{ top: 5 }}
+...>
